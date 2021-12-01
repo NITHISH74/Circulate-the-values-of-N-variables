@@ -29,7 +29,7 @@ def circulate():
  l=[10,20,30,40,50,60]
  n=int(input())
  l=l[n:]+l[:n]
- print("After circulating the values are:",l)
+print("After circulating the values are:",l)
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/94164665/144269633-aa9b134d-1f42-4190-874f-5d053e9ea9b8.png)
