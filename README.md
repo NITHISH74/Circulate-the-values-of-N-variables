@@ -21,7 +21,7 @@ Using the slicing concept rotate the list.
 Print the after circulating the value.
 
 ## Program:
-``
+```
 #Program to circulate N values.
 
 #Developed by: Nithishwar S
@@ -37,7 +37,7 @@ def circulate():
  l=l[n:]+l[:n]
  
 print("After circulating the values are:",l)
-``
+```
 ## Output:
 ![image](https://user-images.githubusercontent.com/94164665/144269633-aa9b134d-1f42-4190-874f-5d053e9ea9b8.png)
 
